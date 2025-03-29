@@ -46,4 +46,8 @@ npm run test:e2e:dev
 Lancer les tests e2e en production
 npm run test:e2e
 
-Technologies utilisées Vue.js 3 Vue Router Pinia (gestion d'état) Vite (bundler) Cypress (tests e2e) API Platform (backend Symfony) Auteur Etienne Sautivet - Projet Web 2025
+Technologies utilisées Vue.js 3 Vue Router Pinia (gestion d'état) Vite (bundler) Cypress (tests e2e) API Platform (backend Symfony) 
+
+lien vers le backend : https://github.com/etiennes0904/Vues.js_Backend
+
+Auteur Etienne Sautivet - Projet Web 2025
